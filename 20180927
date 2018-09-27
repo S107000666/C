@@ -26,7 +26,7 @@ std英文全名為何?
 lib是何意義??
 ```
 ```
-#include <stdio.h>
+ # include <stdio.h>
 #include <stdlib.h>
 printme()
 {
